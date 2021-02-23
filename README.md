@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/AdalabsAfrica/Paylend%20Africa/_apis/build/status/Charity-ops.pipelines-java?branchName=master)](https://dev.azure.com/AdalabsAfrica/Paylend%20Africa/_build/latest?definitionId=32&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
